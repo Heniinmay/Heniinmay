@@ -2,12 +2,17 @@
 
 <img src="https://img.shields.io/badge/Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white"/> <img src="https://img.shields.io/badge/Heniinmay@gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white"/>
 
-<p>
-  Hi there 👋 <strong>I'm Web FrontEnd developer </strong> using JS.<br/>
-  Actually, I was a designer. but now, to become a junior developer🌱.
-  
-  I enjoy coffee n meals.
-</p>
+  <div class="flex">
+  <p>
+    Hi there 👋 <strong>I'm Web FrontEnd developer </strong> using JS.<br/>
+    Actually, I was a designer. To become a junior developer🌱.<br />
+    I enjoy coffee n meals.
+  </p>
+
+
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heniinmay&show_icons=true&theme=vue)
+  </div>
+
 <br />
 <br />
 <h2> 💪 SKILLs </h2>
@@ -36,7 +41,8 @@
 
 <br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heniinmay&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Heniinmay/Heniinmay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
