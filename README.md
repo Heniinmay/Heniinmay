@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img src="https://img.shields.io/badge/Instagram-dd2a7b?style=flat&logo=instagram&logoColor=white"/> <img src="https://img.shields.io/badge/이름-yellowgreen?style=flat-square&logo=로고명&logoColor=로고색"/>
+
 <!--
 **Heniinmay/Heniinmay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
