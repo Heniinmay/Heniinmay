@@ -12,7 +12,7 @@
   <p align="center">
     Hi, there 👋 <strong>I'm Web FrontEnd developer </strong> using JS.<br/>
     Actually, I was a designer. To become a junior developer🌱.<br /><br />
-    I enjoy coffee n meals.
+    I enjoy coffee n tinyCup.
   </p>
   
 </div>
