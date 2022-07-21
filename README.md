@@ -29,16 +29,18 @@
       <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat-square&logo=React&logoColor=black"/> 
       <br />
         <img src="https://img.shields.io/badge/ReactQuery-FF4154?style=flat-square&logo=ReactQuery&logoColor=white"/> 
+        <img src="https://img.shields.io/badge/Styled_Components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
+        
       <br />
-      <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Styled_Components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
+      
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/> 
-      <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/> 
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next&logoColor=white"/> 
     </p>
     <h4> Tools </h4>
     <p>
     <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Vercel.js-000000?style=flat-square&logo=Vercel&logoColor=white"/> 
+    
     <br />
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
       <img src="https://img.shields.io/badge/Creative_Cloud-DA1F26?style=flat-square&logo=adobecreativecloud&logoColor=white"/>
