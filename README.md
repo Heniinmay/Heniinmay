@@ -32,7 +32,7 @@
         <img src="https://img.shields.io/badge/Styled_Components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
       <br />
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/> 
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=NextJs&logoColor=white"/> 
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/> 
     </p>
     <h4> Tools </h4>
     <p>
