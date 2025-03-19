@@ -7,8 +7,8 @@
     
  # 🍀 Henry in may 🍋
   <br/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heniinmay&langs_count=10&layout=compact"/>
-
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heniinmay&langs_count=10"/>
+<br/><br/>
   <p align="center">
     Hi, there 👋 <strong>I'm Web FrontEnd developer </strong><br/>
     Actually, I was a designer. To become a junior developer🌱.<br /><br />
