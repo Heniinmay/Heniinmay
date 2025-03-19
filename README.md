@@ -7,7 +7,7 @@
     
  # 🍀 Henry in may 🍋
   <br/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heniinmay&langs_count=10&card_width=600&layout=donut"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heniinmay&langs_count=10&card_width=550&layout=pie"/>
 <br/><br/>
   <p align="center">
     Hi, there 👋 <strong>I'm Web FrontEnd developer </strong><br/>
