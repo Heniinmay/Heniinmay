@@ -10,8 +10,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heniinmay&langs_count=10&card_width=360&layout=compact"/>
 <br/><br/>
   <p align="center">
-    Hi, there 👋 <strong>I'm Web FrontEnd developer </strong><br/>
-    Actually, I was a designer. To become a junior developer🌱.<br /><br />
+    Hi 👋 <strong>I'm Web FrontEnd developer </strong><br/>
     
   </p>
   
